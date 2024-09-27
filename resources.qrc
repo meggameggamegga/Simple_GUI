@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="fonts">
+    <file>./skinChanger/img/youtube_activity_24dp_5F6368_FILL0_wght400_GRAD0_opsz24.svg</file>
+    <file>./skinChanger/img/youtube.png</file>
+    <file>./skinChanger/img/youtube-svgrepo-com.svg</file>
+    <file>./skinChanger/img/youtube-168-svgrepo-com.svg</file>
+    <file>./skinChanger/img/google.svg</file>
+    <file>./skinChanger/img/home_24dp_5F6368_FILL0_wght400_GRAD0_opsz24.svg</file>
+    <file>./skinChanger/img/menu-boxed.svg</file>
+    <file>./skinChanger/img/align-bottom.svg</file>
+  </qresource>
+</RCC>
